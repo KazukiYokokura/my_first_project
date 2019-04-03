@@ -3,3 +3,4 @@ hello! GitHub
 Gitの操作方法について学んでいきます
 branch_aの作業を完了しました。
 Test
+test2
