@@ -1,4 +1,4 @@
 hello! GitHub
 
-Gitの捜査方法について学んでいきます
-branch_aを新しく作ってbranch_aで作業しています。
+Gitの操作方法について学んでいきます
+branch_aの作業を完了しました。
