@@ -1,3 +1,4 @@
-hello! git
+hello! GitHub
 
 Gitの捜査方法について学んでいきます
+branch_aを新しく作ってbranch_aで作業しています。
